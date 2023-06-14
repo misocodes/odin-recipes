@@ -1,4 +1,2 @@
 # odin-recipes
-Building a basic recipe site consisting of:
-Index page
-Links to a few recipes
+Building a basic recipe site consisting of an index page and links to a few recipes
